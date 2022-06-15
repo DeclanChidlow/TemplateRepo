@@ -10,3 +10,5 @@
 </h1>
 
 A template for my GitHub repositories.
+
+![LGPLv3 Badge](url "README_RESOURCES/LGPLv3 Logo.svg")
