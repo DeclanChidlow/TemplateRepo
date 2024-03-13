@@ -11,7 +11,7 @@
 </h1>
 Brief description of repository
 </div>
-<br />
+<br/>
 
 Larger description of repository.
 
