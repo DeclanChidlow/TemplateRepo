@@ -17,4 +17,4 @@ Larger description of repository.
 
 ## Badge Setup
 
-Search and replace all instances of TemplateRepo with the repo name. In NeoVim this can be done with ``
+Search and replace all instances of TemplateRepo with the repo name. In NeoVim this can be done with `:%s/TemplateRepo/your_repo_name/g`.
